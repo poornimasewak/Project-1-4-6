@@ -4,3 +4,4 @@ function conflictSeason() {
     $("#boom").text("")
     $("#boom").text("The Balloon went poppy!")
 }
+conflictSeason();
